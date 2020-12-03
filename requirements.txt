@@ -1,0 +1,9 @@
+boto3==1.16.28
+botocore==1.19.28
+Faker==4.18.0
+jmespath==0.10.0
+python-dateutil==2.8.1
+s3transfer==0.3.3
+six==1.15.0
+text-unidecode==1.3
+urllib3==1.26.2
